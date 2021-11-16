@@ -48,7 +48,7 @@ a {
  header
  */
 
-.header {
+header {
     grid-area: h;
     position: sticky;
     top: 0;
@@ -122,7 +122,7 @@ a {
  main
  */
 
-.main {
+main {
     grid-area: m;
 }
 .main__container {
@@ -380,7 +380,7 @@ a {
  footer
  */
 
-.footer {
+footer {
     grid-area: f;
     margin-top: 64px;
 }
